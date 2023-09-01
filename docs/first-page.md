@@ -1,8 +1,6 @@
 ---
 title: Demo Page
-type: docs
-prev: /
-next: docs/folder/
+type: project-1
 ---
 
 A simple demo page for Project 1.
